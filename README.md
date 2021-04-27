@@ -24,6 +24,11 @@ Sport-Accessories-Shop is an app where user try to find and buy sports accessori
 3. To create an app where it can calculate all the item inside cart
 
 ### **:clipboard: FEATURES AND FUCNTIONALITY:**
+
+1. List of the sport accessories according to the categories
+2. Payment options
+3. List of checkout goods
+
 ### **:clipboard: SCREEN NAVIGATION:**
 ### **:clipboard: SEQUENCE DIAGRAM:**
 ### **:clipboard: REFERENCES:**
