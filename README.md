@@ -3,7 +3,7 @@
 ## **:open_file_folder:GROUP  : B**
 ### **:clipboard: SUPERVISOR:**
 
-**- MOHD KHAIRUL AZMI BIN HASSAN**
+**- DR. MOHD KHAIRUL AZMI BIN HASSAN**
 * * * * *
 ### **:clipboard: PARTICIPANTS:**
 
