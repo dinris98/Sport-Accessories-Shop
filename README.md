@@ -1,7 +1,4 @@
-* * * * *
-# Sport-Accessory-Shop
-* * * * *
-# **:file_folder:Sport-Accessory-Shop**
+# **:file_folder:Sport-Accessories-Shop**
 * * * * *
 ## **:open_file_folder:GROUP  : B**
 ### **:clipboard: SUPERVISOR:**
@@ -16,4 +13,17 @@
 4. **Khairul Amin bin Arifin [1729345]**
 5. **Ahmad Fakhruddin Faris Bin Zulkifli [1720823]**
 * * * * *
+### **:clipboard: INTRODUCTION:**
 
+Sport-Accessories-Shop is an app where user try to find and buy sports accessories. Sports Accessories such as shoes, tshirt, pants and ball are listed in this app. 
+
+### **:clipboard: OBJECTIVES:**
+
+1. To create an app that can list sport item.
+2. To create an app where it can fulfill user request such as size customization.
+3. To create an app where it can calculate all the item inside cart
+
+### **:clipboard: FEATURES AND FUCNTIONALITY:**
+### **:clipboard: SCREEN NAVIGATION:**
+### **:clipboard: SEQUENCE DIAGRAM:**
+### **:clipboard: REFERENCES:**
