@@ -30,8 +30,9 @@ Sport-Accessories-Shop is an app where user try to find and buy sports accessori
 3. Details of the sports accessories
 4. Payment options
 5. List of checkout goods
+6. 
 ![Checkout1](https://github.com/dinris98/Sport-Accessories-Shop/blob/e378ef0032916082ceb758e5c4dea38dce37c35b/Check%20out%201.jpeg)
-![Checkout2](https://github.com/dinris98/Sport-Accessories-Shop/blob/e378ef0032916082ceb758e5c4dea38dce37c35b/Check%20out%201.jpeg)
+![Checkout2](https://github.com/dinris98/Sport-Accessories-Shop/blob/ee013a1b25a3291e5e55ce0da00f53d433281197/Check%20out%202.jpeg)
 
 ### **:clipboard: SCREEN NAVIGATION:**
 ### **:clipboard: SEQUENCE DIAGRAM:**
