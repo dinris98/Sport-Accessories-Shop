@@ -33,4 +33,5 @@ Sport-Accessories-Shop is an app where user try to find and buy sports accessori
 
 ### **:clipboard: SCREEN NAVIGATION:**
 ### **:clipboard: SEQUENCE DIAGRAM:**
+![sequence](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/sequence.png?raw=true)
 ### **:clipboard: REFERENCES:**
