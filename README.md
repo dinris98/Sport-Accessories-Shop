@@ -7,7 +7,7 @@
 * * * * *
 ### **:clipboard: PARTICIPANTS:**
 
-1. **MR. Abdullah Abdul Mjeed [1613003]**
+1. **MR. Abdullah Abdul Majeed [1613003]**
 2. **Abdul Muizz Bin Mohd Yusof [1722663]**
 3. **MaLi [1727913]**
 4. **Khairul Amin bin Arifin [1729345]**
@@ -82,3 +82,9 @@ Sport-Accessories-Shop is an app where user try to find and buy sports accessori
 1. https://m.jdsports.my/
 2. https://www.decathlon.my/
 3. https://my.sportsdirect.com/app
+
+### **:clipboard: YOUTUBE LINK PRESENTATION:**
+https://youtu.be/Mu0FEF57LuU
+
+
+
