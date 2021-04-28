@@ -58,6 +58,11 @@ Sport-Accessories-Shop is an app where user try to find and buy sports accessori
 
 ![Checkout](https://github.com/dinris98/Sport-Accessories-Shop/blob/56947d97b275e5feac91c8e12ffba9275a43ae4b/Checkout.jpg)
 
+**Payment preferences**
+
+
+
+![Payment Options](https://github.com/dinris98/Sport-Accessories-Shop/blob/610c6a3b4a3fde5b893ace33bb98a0dbdc1c1b13/Payment%20Option.PNG)
 
 ### **:clipboard: SEQUENCE DIAGRAM:**
 **Login**
