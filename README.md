@@ -22,8 +22,9 @@ Sport-Accessories-Shop is an app where user try to find and buy sports accessori
 1. To create an app that can list sport item.
 2. To create an app where it can fulfill user request such as size customization.
 3. To create an app where it can calculate all the item inside cart
+4. To promote our sport accessories shop through the mobile application system
 
-### **:clipboard: FEATURES AND FUCNTIONALITY:**
+### **:clipboard: FEATURES AND FUNCTIONALITY:**
 
 1. Login/Signup Email 
 2. List of the sport accessories according to the categories
@@ -77,3 +78,7 @@ Sport-Accessories-Shop is an app where user try to find and buy sports accessori
 ![Payment](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Payment.png?raw=true)
 
 ### **:clipboard: REFERENCES:**
+
+1. https://m.jdsports.my/
+2. https://www.decathlon.my/
+3. https://my.sportsdirect.com/app
