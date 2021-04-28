@@ -36,12 +36,12 @@ Sport-Accessories-Shop is an app where user try to find and buy sports accessori
 **Login**
 
 
-![sequence](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/sequence.png?raw=true)
+![Login](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Login.png?raw=true)
 
 
 **Payment**
 
 
-![sequence 2](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/sequence%202.png?raw=true)
+![Payment](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Payment.png?raw=true)
 
 ### **:clipboard: REFERENCES:**
