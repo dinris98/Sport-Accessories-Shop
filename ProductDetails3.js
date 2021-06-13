@@ -12,7 +12,7 @@ import Constants from 'expo-constants';
         image : { 
           uri: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F03%2Fnike-zoomx-vaporfly-next-2-white-black-CU4111-100-release-info-0.jpg?w=960&cbr=1&q=90&fit=max"},
         titleText: "Nike Vaporfly",
-        bodyText: 'The Nike ZoomX Vaporfly NEXT% is the fast you've never seen—or felt—before. By combining our two most innovative technologies, Nike ZoomX foam and VaporWeave material, it's the fastest shoe we've ever made.'
+        bodyText: 'Continue the next evolution of speed with a racing shoe made to you help chase new goals and records.The Nike Vaporfly builds on the model racers everywhere love.It helps improve comfort and breathability with a redesigned upper..'
       };
     }
 
