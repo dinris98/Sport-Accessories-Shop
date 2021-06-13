@@ -10,9 +10,9 @@ import Constants from 'expo-constants';
       super(props);
       this.state = {
         image : { 
-          uri: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzdl0i2f66gHim1RlIAO7oUInMBwsOCAGww&usqp=CAU"},
+          uri: "https://www.efootwear.eu/media/catalog/product/cache/image/650x650//0/0/0000207678460_05_mg.jpg"},
         titleText: 'Nike SuperRep Go',
-        bodyText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in risus eu metus suscipit volutpat. Vestibulum venenatis porta massa vitae faucibus. Integer nec velit ante. Vivamus nisl justo, aliquam ac ipsum quis, iaculis sodales arcu. Phasellus nec blandit nisl, eu ultrices libero. Donec scelerisque erat a est rutrum rhoncus. Curabitur in justo rutrum, tincidunt sem a, ultricies massa. Mauris vitae quam vitae neque fringilla mollis eu vitae turpis.'
+        bodyText: 'The Nike SuperRep Go combines comfortable foam cushioning, flexibility and support to get you moving in circuit-based fitness classes or while streaming workouts at home.'
       };
     }
 
