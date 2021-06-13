@@ -95,9 +95,14 @@ Sport-Accessories-Shop is an app where user try to find and buy sports accessori
 https://youtu.be/Mu0FEF57LuU
 
 ### **:clipboard: SCREENSHOT OUTPUT:**
-
+**Main Page**
+![Item List](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Item List.png?raw=true)
 
 ### **:clipboard: DIFFICULTIES IN MOBILE APPLICATION PROJECT DEVELOPMENT:**
 
 1. It is complicated to insert online banking payment inside the mobile apps development
 2. Limited listing product inside the mobile apps development
+3. Cannot navigate with the whole pages.
+4. Android Studio SDK crash.
+5. Most of the libraries are either too updated or does not support anymore by the compiler.
+6. Lack of current sources material to solve new problems
