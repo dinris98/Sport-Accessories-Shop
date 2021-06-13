@@ -14,7 +14,15 @@ function MainPage({ navigation }) {
     <View style={styles.container}>
       <ScrollView>
       <View style={styles.header}>
-      <Text style={styles.h1}>Sport Accessory Shop</Text>
+      <Text style={styles.h1}>SPORT ACCESSORY SHOP</Text>
+      </View>
+      <View style={styles.nice}>
+        <Text style={styles.h4}>
+        SAVE UP TO 40%
+        </Text>
+        <Text style={styles.h5}>
+        WITH MINIMUM PURCHASE OF RM 500
+        </Text>
       </View>
       
         <Text style={styles.h2}>
@@ -85,8 +93,12 @@ function MainPage({ navigation }) {
       header:{
         padding:10,
         backgroundColor: '#00FFFF',
-        height:100,
+        height:150,
         width:'auto',
+        alignItems: 'center',
+        justifyContent:'center',
+        alignSelf:'center',
+        alignContent:'center',
     
       },
       h1:{
@@ -94,9 +106,12 @@ function MainPage({ navigation }) {
         alignItems: 'center',
         justifyContent:'center',
         alignSelf:'center',
+        alignContent:'center',
         color: 'white',
         margin:10,
         paddingTop:10,
+        fontWeight:'bold',
+        
       },
       button:{
         height:10,
@@ -109,6 +124,8 @@ function MainPage({ navigation }) {
         fontSize:25,
         padding:10,
         margin:18,
+        fontWeight:'bold',
+        
       },
       box:{
         padding:20,
@@ -153,7 +170,35 @@ function MainPage({ navigation }) {
         backgroundColor: 'black',
         height:100,
         width:'auto',
+      },
+      nice:{
+        height:80,
+        width:'auto',
+        backgroundColor:'#F0F8FF'
+      },
+      h4:{
+        fontSize: 20,
+        alignItems: 'center',
+        justifyContent:'center',
+        alignSelf:'center',
+        color: 'black',
+        margin:3,
+        padding:5,
+        textShadowColor:'white',
+        textShadowRadius:5,
+      },
+      h5:{
+        fontSize: 18,
+        alignItems: 'center',
+        justifyContent:'center',
+        alignSelf:'center',
+        color: 'black',
+        margin:3,
+        padding:5,
+        textShadowColor:'white',
+        textShadowRadius:5,
       }
+      
     });
 
 const Stack= createStackNavigator();
@@ -175,4 +220,6 @@ export default class App extends Component {
   );
 }
 }
+
+
 
