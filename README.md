@@ -94,5 +94,10 @@ Sport-Accessories-Shop is an app where user try to find and buy sports accessori
 ### **:clipboard: YOUTUBE LINK PRESENTATION:**
 https://youtu.be/Mu0FEF57LuU
 
+### **:clipboard: SCREENSHOT OUTPUT:**
 
 
+### **:clipboard: DIFFICULTIES IN MOBILE APPLICATION PROJECT DEVELOPMENT:**
+
+1. It is complicated to insert online banking payment inside the mobile apps development
+2. Limited listing product inside the mobile apps development
