@@ -102,7 +102,7 @@ https://youtu.be/Mu0FEF57LuU
 
 ![Item List](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Item%20List.jpg?raw=false)
 **Cart Page**
-![Item List](cart screen.png)
+![Item List](https://github.com/dinris98/Sport-Accessories-Shop/blob/19d95358938e4c6507f83b0af86a537459a4566f/cart%20screen.png)
 ### **:clipboard: DIFFICULTIES IN MOBILE APPLICATION PROJECT DEVELOPMENT:**
 
 1. It is complicated to insert online banking payment inside the mobile apps development
