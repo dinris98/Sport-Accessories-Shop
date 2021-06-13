@@ -10,9 +10,9 @@ import Constants from 'expo-constants';
       super(props);
       this.state = {
         image : { 
-          uri: "https://www.prodirectrugby.com/productimages/V3_1_Main/218808_Main_Thumb_0647302.jpg"},
-        titleText: "adidas Predator Mutator 20+ SG Soft Ground Boots",
-        bodyText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in risus eu metus suscipit volutpat. Vestibulum venenatis porta massa vitae faucibus. Integer nec velit ante. Vivamus nisl justo, aliquam ac ipsum quis, iaculis sodales arcu. Phasellus nec blandit nisl, eu ultrices libero. Donec scelerisque erat a est rutrum rhoncus. Curabitur in justo rutrum, tincidunt sem a, ultricies massa. Mauris vitae quam vitae neque fringilla mollis eu vitae turpis.'
+          uri: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F03%2Fnike-zoomx-vaporfly-next-2-white-black-CU4111-100-release-info-0.jpg?w=960&cbr=1&q=90&fit=max"},
+        titleText: "Nike Vaporfly",
+        bodyText: 'The Nike ZoomX Vaporfly NEXT% is the fast you've never seen—or felt—before. By combining our two most innovative technologies, Nike ZoomX foam and VaporWeave material, it's the fastest shoe we've ever made.'
       };
     }
 
