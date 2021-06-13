@@ -100,7 +100,7 @@ https://youtu.be/Mu0FEF57LuU
 
 
 
-![Item List](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Item%20List.jpg?raw=false)
+![Items List](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Items%20List.jpg?raw=false)
 
 
 
