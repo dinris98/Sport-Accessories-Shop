@@ -10,9 +10,9 @@ import Constants from 'expo-constants';
       super(props);
       this.state = {
         image : { 
-          uri: "https://www.prodirectrugby.com/productimages/V3_1_Main/218808_Main_Thumb_0647302.jpg"},
-        titleText: "adidas Predator Mutator 20+ SG Soft Ground Boots",
-        bodyText: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in risus eu metus suscipit volutpat. Vestibulum venenatis porta massa vitae faucibus. Integer nec velit ante. Vivamus nisl justo, aliquam ac ipsum quis, iaculis sodales arcu. Phasellus nec blandit nisl, eu ultrices libero. Donec scelerisque erat a est rutrum rhoncus. Curabitur in justo rutrum, tincidunt sem a, ultricies massa. Mauris vitae quam vitae neque fringilla mollis eu vitae turpis.'
+          uri: "https://media.endclothing.com/media/catalog/product/2/5/25-11-2017_nike_airzoomlwp_16_wolfgrey_white_918226-003_cw_1.jpg"},
+        titleText: "Nike Air Zoom LWP",
+        bodyText: 'Roughly one year after the release of the first Air Zoom LWP retro, Nike released the updated sneaker in several colorways together with Lous Vuitton’s Kim Jones as part of their NikeLab collection – the modernized classic comes back in the OG colorway. The Zoom LWP was the first running shoe that featured Zoom Air in 1995, an ultra-responsive system of cushioning.'
       };
     }
 
