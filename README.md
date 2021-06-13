@@ -106,3 +106,5 @@ https://youtu.be/Mu0FEF57LuU
 4. Android Studio SDK crash.
 5. Most of the libraries are either too updated or does not support anymore by the compiler.
 6. Lack of current sources material to solve new problems
+7. Unable to integrate all codes.
+8. Some library errors.
