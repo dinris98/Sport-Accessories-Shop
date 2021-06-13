@@ -101,8 +101,14 @@ https://youtu.be/Mu0FEF57LuU
 
 
 ![Item List](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Item%20List.jpg?raw=false)
+
+
 **Cart Page**
 ![Item List](https://github.com/dinris98/Sport-Accessories-Shop/blob/19d95358938e4c6507f83b0af86a537459a4566f/cart%20screen.png)
+
+**Credit Card Payment **
+![Item List](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Screenshot_20210613-202502.png)
+![Item List](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Screenshot_20210613-202558.png)
 ### **:clipboard: DIFFICULTIES IN MOBILE APPLICATION PROJECT DEVELOPMENT:**
 
 1. It is complicated to insert online banking payment inside the mobile apps development
