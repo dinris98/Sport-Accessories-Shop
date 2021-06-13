@@ -96,7 +96,7 @@ https://youtu.be/Mu0FEF57LuU
 
 ### **:clipboard: SCREENSHOT OUTPUT:**
 **Main Page**
-![Item List](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Item%20List.PNG?raw=true)
+![Item List](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Item%20List.PNG?raw=false)
 
 ### **:clipboard: DIFFICULTIES IN MOBILE APPLICATION PROJECT DEVELOPMENT:**
 
