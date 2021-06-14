@@ -110,6 +110,8 @@ https://youtu.be/Mu0FEF57LuU
 ![Items List](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/Items%20List.jpg?raw=false)
 
 
+**Product Details Page**
+![Items List](https://github.com/dinris98/Sport-Accessories-Shop/blob/main/productsdetails.jpeg)
 
 
 **Cart Page**
